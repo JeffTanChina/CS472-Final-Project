@@ -1,13 +1,3 @@
-#!/usr/bin/python
-#
-# CIS 472/572 - K-Nearest Neighbors Template Code
-#
-# Author: Daniel Lowd <lowd@cs.uoregon.edu>
-# Date:   2/9/2018
-#
-# Please use this code as the template for your solution.
-#
-
 import math
 import sys
 import re

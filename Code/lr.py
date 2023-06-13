@@ -83,9 +83,6 @@ def train_lr(data, eta, l2_reg_weight):
 def predict_lr(model, x):
     (w, b) = model
 
-    #
-    # YOUR CODE HERE
-    #
     z = b
     for i in range(len(w)):
         z += x[i] * w[i]
